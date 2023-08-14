@@ -1,0 +1,25 @@
+.navbar-holder {
+  height: 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+}
+
+.navbar-name h1 {
+  font-size: 2rem;
+  color: black;
+  margin-left: 2rem;
+}
+
+.navbar-route ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-route ul li {
+  font-size: 100%;
+  list-style-type: none;
+  margin-right: 2rem;
+  color: black;
+}
